@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(899): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(900): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 99 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Menna\documents\visual studio 2015\Projects\Project1\x64\Release\Project1.exe
+  Project1.vcxproj -> C:\Users\Menna\documents\visual studio 2015\Projects\Project1\x64\Release\Project1.pdb (Full PDB)

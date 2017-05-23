@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(382): warning C4101: 'cycletwo': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(567): warning C4101: 'n': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(642): warning C4101: 'tempe': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(761): warning C4101: 'div': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(877): warning C4101: 'QB3': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(879): warning C4101: 'qb3': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(863): warning C4101: 'T3': unreferenced local variable
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(1014): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(1015): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(1016): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\menna\documents\visual studio 2015\projects\project1\project1\source.cpp(1133): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Project1.vcxproj -> C:\Users\Menna\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Menna\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
